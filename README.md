@@ -1,5 +1,5 @@
-# ios-9.x-mixtape-jailbreak-patch
-ios 9.1-9.3.4 32bit mixtape jailbreak patch for ios 6.x spoofed and stucked devices  
+# iOS 9.x Mixtape Jailbreak Patch
+iOS 9.1-9.3.4 32bit mixtape jailbreak patch for ios 6.x spoofed and stucked devices  
   
 WHAT IS THIS:  
 Downgrading iOS 6.0 from 9.x is possible via editing SystemVersion.plist file in System\Library\CoreServices\ folder. But sometimes users lost jailbreak and can't downgrade 6.0 succesfully. And installing Home Depot Jailbreak tool not possible on 6.0 spoofed 9.x systems.   
